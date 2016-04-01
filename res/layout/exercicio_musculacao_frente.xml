@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+	
+    <Button
+        android:id="@+id/button_peitoral"
+        android:tag="1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="90dp"
+        android:layout_y="144dp"
+        android:background="@null"
+        android:text="Peitoral"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button_ombros"
+        android:tag="3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="122dp"
+        android:background="@null"
+        android:text="Ombros"
+        android:textColor="#FFFFFF" />
+    
+    <Button
+        android:id="@+id/button_biceps"
+        android:tag="5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="56dp"
+        android:layout_y="96dp"
+        android:text="Biceps"
+        android:background="@null"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button_quadriceps"
+        android:tag="6"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="107dp"
+        android:layout_y="292dp"
+        android:background="@null"
+        android:text="Quadriceps"
+        android:textColor="#FFFFFF" />
+    
+    <Button
+        android:id="@+id/button_abdutores"
+        android:tag="8"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="14dp"
+        android:layout_y="273dp"
+        android:text="Abdutores" 
+        android:background="@null"
+        android:textColor="#FFFFFF" />
+    
+        <Button
+        android:id="@+id/button_adutores"
+        android:tag="9"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="110dp"
+        android:layout_y="262dp"
+        android:background="@null"
+        android:text="Adutores"
+        android:textColor="#FFFFFF" />
+    
+    <Button
+        android:id="@+id/button_abdominais"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="267dp"
+        android:layout_y="200dp"
+        android:background="@null"
+        android:tag="11"
+        android:text="Abdominais"
+        android:textColor="#FFFFFF" />
+        
+</AbsoluteLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#C8BFe7">
+    <ViewFlipper android:id="@+id/ViewFlipper01" 
+	    android:layout_width="fill_parent" 
+	    android:layout_height="0dip"
+	    android:layout_weight="1">
+	    <include android:id="@+id/libraryView0"  layout="@layout/programa_dados" />
+	    <include android:id="@+id/libraryView1"  layout="@layout/programa_atividades_aerobico" />
+	    <include android:id="@+id/libraryView2"  layout="@layout/programa_atividades_peitorais" />
+	    <include android:id="@+id/libraryView3"  layout="@layout/programa_atividades_costas" />
+	    <include android:id="@+id/libraryView4"  layout="@layout/programa_atividades_ombros" />
+	    <include android:id="@+id/libraryView5"  layout="@layout/programa_atividades_triceps" />
+	    <include android:id="@+id/libraryView6"  layout="@layout/programa_atividades_biceps" />    
+	    <include android:id="@+id/libraryView7"  layout="@layout/programa_atividades_ant_coxa" />
+	    <include android:id="@+id/libraryView8"  layout="@layout/programa_atividades_post_coxa" />
+	    <include android:id="@+id/libraryView9"  layout="@layout/programa_atividades_gluteos" />
+	    <include android:id="@+id/libraryView10" layout="@layout/programa_atividades_adutores" />
+	    <include android:id="@+id/libraryView11" layout="@layout/programa_atividades_panturrilha" />
+	    <include android:id="@+id/libraryView12" layout="@layout/programa_atividades_abdominal" />
+	    
+	</ViewFlipper>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal">
+	    <Button
+	        android:id="@+id/ant_button"
+	        android:layout_width="70dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/anterior">
+	    </Button>
+	    <Button
+	        android:id="@+id/ok_button"
+	        android:layout_width="0dip"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/salvar">
+	    </Button>
+	    <Button
+	        android:id="@+id/prox_button"
+	        android:layout_width="70dp"
+	        android:layout_height="wrap_content"
+	        android:text="@string/proximo">
+	    </Button>
+	    	    	    
+    </LinearLayout>
+</LinearLayout>

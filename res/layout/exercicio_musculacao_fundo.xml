@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_triceps"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_x="232dp"
+        android:layout_y="139dp"
+        android:background="@null"
+        android:tag="4"
+        android:text="Triceps"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/button_adutores"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="-5dp"
+        android:layout_y="296dp"
+        android:background="@null"
+        android:tag="9"
+        android:text="Adutores"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/button_panturrilhas"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="81dp"
+        android:layout_y="410dp"
+        android:background="@null"
+        android:tag="10"
+        android:text="Panturrilhas"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/button_post_coxa"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_x="157dp"
+        android:layout_y="303dp"
+        android:background="@null"
+        android:tag="7"
+        android:text="Posterior de coxas"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/button_costas"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="131dp"
+        android:layout_y="108dp"
+        android:background="@null"
+        android:tag="2"
+        android:text="Costas"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/button_gluteos"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="122dp"
+        android:layout_y="244dp"
+        android:background="@null"
+        android:tag="8"
+        android:text="Glúteos"
+        android:textSize="25dp" />
+
+</AbsoluteLayout>

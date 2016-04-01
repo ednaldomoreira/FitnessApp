@@ -1,0 +1,57 @@
+1;1;1;Caminhada;caminhada
+1;2;1;Corrida;corrida
+1;3;1;Bicicleta;bike
+1;4;1;Eliptico;elipt
+2;1;1;Supino sentado;sup_sent
+2;1;2;Supino reto;sup_reto
+2;1;3;Supino inclinado;sup_incl
+2;1;4;Voador;voador
+2;1;5;Cruxifixo;cruxifixo
+2;1;6;Fly;fly
+2;1;7;Cross over;cross_over
+2;2;1;Puxador pela frente;pux_frente
+2;2;2;Puxador por trás;pux_tras
+2;2;3;Puxador fechado;pux_fech
+2;2;4;Remada baixa;rem_baixa
+2;2;5;Remada unilateral;rem_uni
+2;2;6;Voador Dorsal;voa_dorsal
+2;2;7;Pull Down;pull_down
+2;3;1;Elevação lateral;elev_lat
+2;3;2;Elevação Frontal;elev_front
+2;3;3;Desenvolvimento halteres;desenv_halt
+2;3;4;Remada em pé;rem_pe
+2;3;5;Encolhimento de ombros;enc_ombros
+2;3;6;Smith trás;smith_tras
+2;3;7;Cross over;corss_over
+2;4;1;Tríceps Pulley;tri_pull
+2;4;2;Tríceps Pulley Inverso;tri_pull_inv
+2;4;3;Tríceps Testa;tri_testa
+2;4;4;Rosca Francesa;rosc_franc
+2;4;5;Tríceps Corda;tri_corda
+2;5;1;Rosca Direta com Halteres;rosc_diret_halt
+2;5;2;Rosca Direta com Barra;rosc_diret_barra
+2;5;3;Rosca Scott no Banco;rosc_scott_banc
+2;5;4;Rosca Alernada;rosc_altern
+2;5;5;Rosca Inversa;rosc_inv
+2;5;6;Rosca Concentrada;rosc_concent
+2;5;7;Rosca Punho;rosc_punho
+2;5;8;Rosca Direta no Cross;rosc_dir_cross
+2;6;1;Extensão com Caneleira;ext_canel
+2;6;2;Cadeira Extensora;cad_ext
+2;6;3;Leg Press 45º;leg_press45
+2;6;4;Hack Machine;hack_mach
+2;6;5;Agachamento;agach
+2;6;6;Leg Horizontal;leg_horiz
+2;7;1;Mesa Flexora;mesa_flex
+2;7;2;Cadeira Flexora;cad_flex
+2;7;3;Stiff;stiff
+2;7;4;Flexora em pé;flex_pe
+2;8;1;Cadeira Abdutora;cad_abdut
+2;8;2;Glúteo na Máquina;glut_maq
+2;8;3;Abdução com Caneleira;abdu_canel
+2;8;4;Glúteo com Caneleira;glut_canel
+2;9;1;Adução com Caneleira;adu_canel
+2;9;2;Cadeira Adutora;cad_adut
+2;10;1;Panturrilha Sentada;pant_sentad
+2;10;2;Panturrilha em pé;pant_pe
+2;11;1;Abdominal Reto;abd_reto

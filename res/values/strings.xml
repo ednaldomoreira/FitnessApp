@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FitinbodyActivity!</string>
+    <string name="app_name">Fitinbody</string>
+    <string name="progamas">Programas</string>
+    <string name="avaliacoes">Avaliações</string>
+    <string name="exerc_aerob">Exercicios Aeróbicos</string>
+    <string name="exerc_musc">Exercicios Musculação</string>
+    <string name="finalizar">Encerrar</string>
+    <string name="welcome">Bem vindo à aplicação Fitinbody!\n
+Com ela você poderá controlar as suas atividades realizadas na academia.\n
+\n
+Bom treinamento !!!</string>
+    <string name="welcome_desenv">Desenvolvido por Ednaldo Moreira\n
+http://www.facebook.com/ednaldo.santos.moreira\n
+http://twitter.com/#!/ed_moreira\n
+ed.moreira@gmail.com    </string>
+    <string name="continuar">Continuar</string>
+    <string name="novo_programa">Novo Programa</string>
+    <string name="anterior">Ant</string>
+    <string name="salvar">Continuar</string>
+    <string name="proximo">Prox</string>
+    <string name="peso">Peso</string>
+    <string name="sessoes">Sessões</string>
+    <string name="inicio">Inicio</string>
+    <string name="fim">Fim</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="observacao">Observação</string>
+    <string name="data">Data</string>
+    <string name="perc_gordura">% Gordura</string>
+    <string name="nome_prof_aval">Prof. Aval.</string>
+    <string name="nova_avaliacao">Nova Avaliação</string>
+    <string name="cancelar">Cancelar</string>            
+</resources>

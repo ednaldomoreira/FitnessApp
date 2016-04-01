@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Atividades>
+  <Aerobico>
+    <Exercicio nome="Caminhada" codigo="1" mnemonico="caminhada"/>
+    <Exercicio nome="Corrida" codigo="2" mnemonico="corrida" />
+    <Exercicio nome="Bicicleta" codigo="3"  mnemonico="bike"/>
+    <Exercicio nome="Eliptico" codigo="4"  mnemonico="elipt"/>
+  </Aerobico>
+  <Musculacao>
+    <GrupoMuscular nome="Peitorais" codigo="1">
+      <Exercicio nome="Supino sentado" codigo="1" />
+      <Exercicio nome="Supino reto" codigo="2" mnemonico="sup_reto" />
+      <Exercicio nome="Supino inclinado" codigo="3" mnemonico="sup_incl" />
+      <Exercicio nome="Voador" codigo="4" mnemonico="voador" />
+      <Exercicio nome="Cruxifixo" codigo="5" mnemonico="cruxifixo" />
+      <Exercicio nome="Fly" codigo="6" mnemonico="fly" />
+      <Exercicio nome="Cross over" codigo="7" mnemonico="cross_over" />
+    </GrupoMuscular>
+    <GrupoMuscular nome="Costas"  codigo "2">
+      <Exercicio nome="Puxador pela frente" codigo="1" mnemonico="pux_frente" />
+      <Exercicio nome="Puxador por trás" codigo="2" mnemonico="pux_tras" />
+      <Exercicio nome="Puxador fechado" codigo="3" mnemonico="pux_fech"
+      <Exercicio nome="Remada baixa" codigo="4" mnemonico="rem_baixa"
+      <Exercicio nome="Remada unilateral" codigo="5" mnemonico="rem_uni"
+      <Exercicio nome="Voador Dorsal" codigo="6" mnemonico="voa_dorsal"
+      <Exercicio nome="Pull Down" codigo="7" mnemonico="pull_down"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Ombros" codigo="3">
+      <Exercicio nome="Elevação lateral" codigo="1" mnemonico="elev_lat"
+      <Exercicio nome="Elevação Frontal" codigo="2" mnemonico="elev_front"
+      <Exercicio nome="Desenvolvimento halteres" codigo="3" mnemonico="desenv_halt"
+      <Exercicio nome="Remada em pé" codigo="4" mnemonico="rem_pe"
+      <Exercicio nome="Encolhimento de ombros" codigo="5" mnemonico="enc_ombros"
+      <Exercicio nome="Smith trás" codigo="6" mnemonico="smith_tras"
+      <Exercicio nome="Cross over" codigo="7" mnemonico="corss_over"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Tríceps" codigo="4">
+      <Exercicio nome="Tríceps Pulley" codigo="1" mnemonico="tri_pull"
+      <Exercicio nome="Tríceps Pulley Inverso" codigo="2" mnemonico="tri_pull_inv"
+      <Exercicio nome="Tríceps Testa" codigo="3" mnemonico="tri_testa"
+      <Exercicio nome="Rosca Francesa" codigo="4" mnemonico="rosc_franc"
+      <Exercicio nome="Tríceps Corda" codigo="5" mnemonico="tri_corda"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Biceps" codigo="5">
+      <Exercicio nome="Rosca Direta com Halteres" codigo="1" mnemonico="rosc_diret_halt"
+      <Exercicio nome="Rosca Direta com Barra" codigo="2" mnemonico="rosc_diret_barra"
+      <Exercicio nome="Rosca Scott no Banco" codigo="3" mnemonico="rosc_scott_banc"
+      <Exercicio nome="Rosca Alernada" codigo="4" mnemonico="rosc_altern"
+      <Exercicio nome="Rosca Inversa" codigo="5" mnemonico="rosc_inv"
+      <Exercicio nome="Rosca Concentrada" codigo="6" mnemonico="rosc_concent"
+      <Exercicio nome="Rosca Punho" codigo="7" mnemonico="rosc_punho"
+      <Exercicio nome="Rosca Direta no Cross" codigo="8" mnemonico="rosc_dir_cross"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Anterior de Coxa" codigo="6">
+      <Exercicio nome="Extensão com Caneleira" codigo="1" mnemonico="ext_canel"
+      <Exercicio nome="Cadeira Extensora" codigo="2" mnemonico="cad_ext"
+      <Exercicio nome="Leg Press 45º" codigo="3" mnemonico="leg_press45"
+      <Exercicio nome="Hack Machine" codigo="4" mnemonico="hack_mach"
+      <Exercicio nome="Agachamento" codigo="5" mnemonico="agach"
+      <Exercicio nome="Leg Horizontal" codigo="6" mnemonico="leg_horiz"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Posterior de Coxa" codigo="7">
+      <Exercicio nome="Mesa Flexora" codigo="1" mnemonico="mesa_flex"
+      <Exercicio nome="Cadeira Flexora" codigo="2" mnemonico="cad_flex"
+      <Exercicio nome="Stiff" codigo="3" mnemonico="stiff"
+      <Exercicio nome="Flexora em pé" codigo="4" mnemonico="flex_pe"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Glúteos" codigo="8">
+      <Exercicio nome="Cadeira Abdutora" codigo="1" mnemonico="cad_abdut"
+      <Exercicio nome="Glúteo na Máquina" codigo="2" mnemonico="glut_maq"
+      <Exercicio nome="Abdução com Caneleira" codigo="3" mnemonico="abdu_canel"
+      <Exercicio nome="Glúteo com Caneleira" codigo="4" mnemonico="glut_canel"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Adutores" codigo="9">
+      <Exercicio nome="Adução com Caneleira" codigo="1" mnemonico="adu_canel"
+      <Exercicio nome="Cadeira Adutora" codigo="2" mnemonico="cad_adut"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Panturrilha" codigo="10">
+      <Exercicio nome="Panturrilha Sentada" codigo="1" mnemonico="pant_sentad"
+      <Exercicio nome="Panturrilha em pé" codigo="2" mnemonico="pant_pe"
+    </GrupoMuscular>
+    <GrupoMuscular nome="Abdominal" codigo="11">
+      <Exercicio nome="Abdominal Reto" codigo="1" mnemonico="abd_reto"
+    </GrupoMuscular>
+  </Musculacao>
+
+</Atividades>

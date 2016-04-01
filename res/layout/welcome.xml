@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="fill_parent"  
+    >  
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:text="@string/welcome" >  
+    </TextView>  
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="10dp"
+        android:text="@string/welcome_desenv" >
+  
+    </TextView>  
+    <Button  
+    android:id="@+id/welcome_ok_button"  
+    android:layout_width="fill_parent"  
+    android:layout_height="wrap_content"  
+    android:text="@string/continuar"  
+    >  
+    </Button>
+    
+</TableLayout>  

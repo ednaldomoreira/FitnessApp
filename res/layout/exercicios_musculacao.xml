@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbarFadeDuration="1000" >
+
+    <HorizontalScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/exerc_nome_area"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Área alta" />
+
+            <TextView
+                android:id="@+id/tv_exerc_ombros"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="3"
+                android:text="Ombros" />
+
+            <TextView
+                android:id="@+id/tv_exerc_triceps"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="4"
+                android:text="Tríceps" />
+
+            <TextView
+                android:id="@+id/tv_exerc_biceps"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="5"
+                android:text="Bíceps" />
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/exerc_nome_area"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Área Central" />
+
+            <TextView
+                android:id="@+id/tv_exerc_peitorais"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="1"
+                android:text="Peitorais" />
+
+            <TextView
+                android:id="@+id/tv_exerc_costas"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="2"
+                android:text="Costas" />
+
+            <TextView
+                android:id="@+id/tv_exerc_abdominais"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="11"
+                android:text="Abdominais" />
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/exerc_nome_area"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Área baixa" />
+
+            <TextView
+                android:id="@+id/tv_exerc_gluteos"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="8"
+                android:text="Glúteos" />
+
+            <TextView
+                android:id="@+id/tv_exerc_adutores"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="9"
+                android:text="Adutores" />
+
+            <TextView
+                android:id="@+id/tv_exerc_ant_coxa"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="6"
+                android:text="Anterior Coxa" />
+
+            <TextView
+                android:id="@+id/tv_exerc_post_coxa"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="7"
+                android:text="Posterior Coxa" />
+
+            <TextView
+                android:id="@+id/tv_exerc_panturrilhas"
+                style="@style/exerc_nome_grupo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:tag="10"
+                android:text="Panturrilhas" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</ScrollView>

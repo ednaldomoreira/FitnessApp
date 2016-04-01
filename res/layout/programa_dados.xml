@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#786450CD"
+        android:orientation="vertical" >
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableRow>
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFFFF"
+                    android:text="@string/inicio"
+                    android:textColor="#7D6959CD" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/box_data_inicial"
+                    android:layout_margin="1dp"
+                    android:text="  /  /    " >
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFFFF"
+                    android:text="@string/fim"
+                    android:textColor="#7D6959CD" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/box_data_final"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="1dp"
+                    android:text="  /  /    " >
+                </TextView>
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableRow>
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFFFF"
+                    android:text="@string/sessoes"
+                    android:textColor="#7D6959CD" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFFFF"
+                    android:text="Series"
+                    android:textColor="#7D6959CD" />
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:background="#FFFFFFFF"
+                    android:text="Repetições"
+                    android:textColor="#7D6959CD" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/num_sessoes"
+                    android:layout_margin="1dp"
+                    android:text=" " />
+
+                <TextView
+                    android:id="@+id/box_num_series_geral"
+                    android:layout_margin="1dp"
+                    android:text=" " />
+
+                <TextView
+                    android:id="@+id/box_num_repet_geral"
+                    android:layout_margin="1dp"
+                    android:text=" " />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TableRow>
+
+                <TextView
+                    android:layout_margin="1dp"
+                    android:layout_span="4"
+                    android:background="#FFFFFFFF"
+                    android:text="Frequência"
+                    android:textColor="#7D6959CD" />
+            </TableRow>
+
+            <TableRow>
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqSEG"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SEG" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqTER"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="TER" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqQUA"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUA" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqQUI"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUI" />
+            </TableRow>
+
+            <TableRow>
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqSEX"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SEX" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqSAB"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SAB" />
+
+                <CheckBox
+                    android:id="@+id/checkBoxFreqDOM"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="DOM" />
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TableRow>
+
+                <TextView
+                    android:background="#FFFFFFFF"
+                    android:text="@string/observacao"
+                    android:textColor="#7D6959CD" />
+            </TableRow>
+
+            <TableRow android:layout_weight="1" >
+
+                <EditText
+                    android:id="@+id/box_obs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1" >
+                </EditText>
+            </TableRow>
+        </TableLayout>
+    </TableLayout>
+
+</LinearLayout>

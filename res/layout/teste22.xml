@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+	<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	           android:layout_width="fill_parent"
+	           android:layout_height="0dip"
+	           android:scrollbarFadeDuration="1000" 
+			   android:layout_weight="1">
+		<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical">    
+	    
+			<TableLayout
+			    xmlns:android="http://schemas.android.com/apk/res/android"
+			    android:layout_width="wrap_content"
+			    android:layout_height="fill_parent"
+			    android:orientation="vertical">
+			
+				<!-- Peitorais -->
+				
+				<TableRow style="@style/cabec_atividade"
+				    android:layout_width="fill_parent">
+		   			<TextView android:text=" Exercício Aeróbico "
+		   			          android:gravity="center" 
+					          style="@style/nome_cabec_atividade"
+				    		  android:layout_span="7" 
+				    		  />
+				</TableRow>
+				<TableRow style="@style/cabec_atividade">
+					<TextView android:text="   "
+					    android:layout_weight="1"/>
+					<TextView android:text="SEG" 
+					          style="@style/attr_cabec_atividade_aer"/>
+					<TextView android:text="TER" 
+					          style="@style/attr_cabec_atividade_aer"/>
+					<TextView android:text="QUA" 
+					          style="@style/attr_cabec_atividade_aer"/>
+					<TextView android:text="QUI" 
+					          style="@style/attr_cabec_atividade_aer"/>
+					<TextView android:text="SEX" 
+					          style="@style/attr_cabec_atividade_aer"/>
+					<TextView android:text="SAB" 
+					          style="@style/attr_cabec_atividade_aer"/>
+				</TableRow>
+				
+				<TableRow>
+					<TextView
+					    android:text="Caminhada"
+					          style="@style/nome_atividade" 
+					          android:layout_weight="1"/>
+					<TextView android:text=" " 
+					          android:id="@+id/treino_aerob_cam_seg"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text=" "
+					          android:id="@+id/treino_aerob_cam_ter"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text=" "
+					          android:id="@+id/treino_aerob_cam_qua"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text=" "
+					          android:id="@+id/treino_aerob_cam_qui"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text=" "
+					          android:id="@+id/treino_aerob_cam_sex"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text=" "
+					          android:id="@+id/treino_aerob_cam_sab"			          
+					          style="@style/attr_atividade" />
+				</TableRow>
+				<TableRow>
+					<TextView android:text="Corrida"
+					          style="@style/nome_atividade" 
+					          android:layout_weight="1"/>
+					<TextView android:text="   " 
+					          android:id="@+id/treino_aerob_corr_seg"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_corr_ter"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_corr_qua"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_corr_qui"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_corr_sex"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_corr_sab"			          
+					          style="@style/attr_atividade" />
+				</TableRow>
+				<TableRow>
+					<TextView android:text="Bicicleta"
+					          style="@style/nome_atividade" 
+					          android:layout_weight="1"/>
+					<TextView android:text="   " 
+					          android:id="@+id/treino_aerob_bik_seg"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_bik_ter"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_bik_qua"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_bik_qui"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_bik_sex"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_bik_sab"			          
+					          style="@style/attr_atividade" />
+				</TableRow>
+				<TableRow>
+					<TextView android:text="Elipitico"
+					          style="@style/nome_atividade" 
+					          android:layout_weight="1"/>
+					<TextView android:text="   " 
+					          android:id="@+id/treino_aerob_elip_seg"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_elip_ter"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_elip_qua"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_elip_qui"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_elip_sex"			          
+					          style="@style/attr_atividade" />
+					<TextView android:text="   "
+					          android:id="@+id/treino_aerob_elip_sab"			          
+					          style="@style/attr_atividade" />
+				</TableRow>
+									
+			</TableLayout>
+		</HorizontalScrollView>
+	</ScrollView>				
+    <Button
+        android:id="@+id/ok_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Continuar"
+        android:layout_alignParentBottom="true">
+    </Button>
+				
+</LinearLayout>

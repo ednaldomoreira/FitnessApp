@@ -1,0 +1,489 @@
+1|Cross Over With Bands |1|2|3|2|6|1|0
+2|Barbell Bench Press|3|4|3|7|6|2|3
+3|Barbell Bent Over Row|5|6|1|2|11|2|0
+4|Barbell Close Grip Bench Press|7|8|7|3|11|2|3
+5|Barbell Decline Bench Press|9|10|3|7|11|2|3
+6|Barbell Front Raise|11|12|6|11|11|2|0
+7|Barbell Good Morning|13|14|1|5|11|2|0
+8|Barbell Incline Bench Press|15|16|3|7|6|2|3
+9|Barbell Reverse Grip Bent Over Row|17|18|1|2|6|2|0
+10|Barbell Shoulder Press|19|20|6|7|3|2|0
+11|Barbell Shrug|21|22|6|11|11|2|0
+12|Barbell Squat|23|24|8|9|5|2|0
+13|Barbell Up Right Row|25|26|6|7|11|2|0
+14|Cable Cross Over|27|28|3|2|6|11|0
+15|Cable Flat Bench Fly|29|30|3|2|11|11|0
+16|Cable Front Raise|31|32|6|11|11|11|0
+17|Cable Incline Fly|33|34|3|6|11|11|0
+18|Cable Internal Rotation|35|36|6|11|11|11|0
+19|Cable Lateral Raise|37|38|1|6|11|11|0
+20|Cable Rear Lateral Raise|39|40|6|1|11|11|0
+21|Cable Seated Row|41|42|1|2|6|11|0
+22|Cable Shrug|43|44|6|11|11|11|0
+23|Cable Up Right Row|45|46|6|11|11|11|0
+24|Dip|47|48|7|3|6|12|0
+25|Dumbbell Arnold Press|49|50|6|7|11|5|3
+26|Dumbbell Bench Press|51|52|3|6|7|5|3
+27|Dumbbell Bent Over Delt  Raise|53|54|6|11|11|5|0
+28|Dumbbell Cuban Press|55|56|6|11|11|5|0
+29|Dumbbell Front Raise|57|58|6|11|11|5|0
+30|Dumbbell Hammer Grip Incline Bench Press|59|60|3|6|7|5|0
+31|Dumbbell Incline Bench Press|61|62|3|6|7|5|3
+32|Dumbbell Lateral Raise|63|64|6|11|11|5|0
+33|Dumbbell Lying One Arm Lateral Raise|65|66|6|1|11|5|0
+34|Dumbbell Lying Rear Lateral Raise|67|68|6|11|11|5|0
+35|Dumbbell One Arm Shoulder Press|69|70|6|7|11|5|0
+36|Dumbbell One Arm Up Right Row|71|72|6|2|7|5|0
+37|Dumbbell Raise|73|74|6|2|11|5|0
+38|Dumbbell Rear Delt Row|75|76|6|2|1|5|0
+39|Dumbbell Decline Bench Press|77|78|3|7|6|5|3
+40|Dumbbell Decline Fly|79|80|3|6|11|5|0
+41|Dumbbell Fly|81|82|3|11|11|5|3
+42|Dumbbell Shoulder Shrug|83|84|6|11|11|5|0
+43|Dumbbell Up Right Row|85|86|6|11|11|5|0
+44|Leg Raise|87|88|0|11|11|4|0
+45|Machine Fly|89|90|3|11|11|11|0
+46|Machine Shoulder Press|91|92|6|3|7|11|0
+47|Push Up|93|94|3|7|11|4|0
+48|Dumbbell Shoulder Press|95|96|6|7|11|5|0
+49|Smith Machine Rear Delt Row|97|98|6|1|11|11|0
+50|Smith Machine Shrug|99|100|6|11|11|11|0
+51|Smith Machine Up Right Row|101|102|6|2|1|11|0
+52|T Bar Row|103|104|1|2|11|2|12
+53|Band Back Fly|105|106|7|1|11|1|0
+54|Dumbbell Lying Triceps Extension |107|108|7|11|11|5|3
+55|Barbell Lying Triceps Extension |109|110|7|11|11|2|0
+56|Ab Crunch Machine|111|112|0|11|11|11|0
+57|Air Bike|113|114|0|11|11|4|0
+58|Alternate Heel Touchers|115|116|0|11|11|4|0
+59|Hanging Pike|117|118|0|11|11|13|0
+60|Exercise Ball Crunch|119|120|0|11|11|6|0
+61|Hanging Leg Raise|121|122|0|11|11|13|0
+62|Exercise Ball Pull-in|123|124|0|11|11|6|0
+63|Jackknife Sit-up|125|126|0|11|11|4|0
+64|Oblique Crunches|127|128|0|11|11|4|0
+65|Decline Reverse Crunch|129|130|0|11|11|3|0
+66|Barbell Ab Rollout|131|132|0|11|11|2|0
+67|Press Sit-Up|133|134|0|11|11|2|3
+68|Flat Bench Leg Pull-in|135|136|0|11|11|3|0
+69|Frog Sit-Ups|137|138|0|11|11|4|0
+70|Cross-Body Crunch|139|140|0|11|11|4|0
+71|Tuck Crunch|141|142|0|11|11|4|0
+72|Cable Seated Crunch|143|144|0|11|11|3|11
+73|Flat Bench Lying Leg Raise|145|146|0|11|11|3|0
+74|Plate Twist|147|148|0|11|11|14|0
+75|Side Bridge|149|150|0|11|11|4|0
+76|Toe Touchers|151|152|0|11|11|4|0
+77|Crunches|153|154|0|11|11|4|0
+78|Decline Crunch|155|156|0|11|11|3|0
+79|Cable Crunch|157|158|0|11|11|11|0
+80|Dumbbell Side Bend|159|160|0|11|11|5|0
+81|V-Bar Pullup|161|162|1|2|6|13|11
+82|Chin-Up|163|164|1|2|11|13|0
+83|Pullups|165|166|1|11|11|13|0
+84|Wide-Grip Pulldown Behind The Neck|167|168|1|6|11|11|0
+85|Wide-Grip Rear Pull-Up|169|170|1|6|11|13|0
+86|Wide-Grip Lat Pulldown|171|172|1|6|11|11|0
+87|Close-Grip Front Lat Pulldown|173|174|1|2|11|13|0
+88|Bent Over Two-Dumbbell Row|175|176|1|2|11|5|0
+89|Incline Bench Pull|177|178|1|2|11|3|2
+90|One-Arm Dumbell Row|179|180|1|2|11|5|0
+91|Smith Machine Bent Over Row|181|182|1|2|11|11|0
+92|Back Extensions - Hyperextensions|183|184|1|11|11|3|0
+93|Barbell Deadlift|185|186|1|9|8|2|0
+94|Superman|187|188|1|11|11|4|0
+95|EZ-Bar Curl|189|190|2|11|11|7|0
+96|Overhead Cable Curl|191|192|2|11|11|11|0
+97|Barbell Curls Lying Against An Incline|193|194|2|11|11|2|3
+98|Cross Body Hammer Curl|195|196|2|11|11|5|0
+99|Close-Grip Standing Barbell Curl|197|198|2|11|11|2|0
+100|Dumbbell Bicep Curl|199|200|2|11|11|5|0
+101|Seated Dumbell Curl|201|202|2|11|11|3|5
+102|Standing Biceps Cable Curl|203|204|2|11|11|11|0
+103|Standing One-Arm Dumbbell Curl Over Incline Bench|205|206|2|11|11|5|0
+104|Reverse Cable Curl|207|208|2|11|11|11|0
+105|Spider Curl|209|210|2|11|11|3|7
+106|Incline Dumbbell Curl|211|212|2|11|11|3|5
+107|Dumbbell Concentration Curls|213|214|2|11|11|3|5
+108|Hammer Curls|215|216|2|11|11|5|0
+109|One Arm Dumbbell Preacher Curl|217|218|2|11|11|5|3
+110|Reverse Barbell Preacher Curls|219|220|4|11|11|2|3
+111|Reverse Barbell Curl|221|222|4|11|11|2|0
+112|Barbell Curl|223|224|2|11|11|2|0
+113|Preacher Curl|225|226|2|11|11|2|3
+114|Alternate Hammer Curl|227|228|2|11|11|5|0
+115|Alternate Incline Dumbbell Curl|229|230|2|11|11|5|3
+116|Dumbbell Alternate Bicep Curl|231|232|2|11|11|5|0
+117|Barbell Behind The Back Wrist Curl|233|234|4|11|11|2|0
+118|Palms-Up Dumbbell Wrist Curl Over A Bench|235|236|4|11|11|3|5
+119|Seated Palm-Up Barbell Wrist Curl|237|238|4|11|11|2|3
+120|Wrist Roller|239|240|4|11|11|12|14
+121|Seated Dumbbell Palms-Down Wrist Curl|241|242|4|11|11|3|5
+122|Cable Wrist Curl|243|244|4|11|11|11|0
+123|Palms-Down Dumbbell Wrist Curl Over A Bench|245|246|4|11|11|3|5
+124|Palms-Down Barbell Wrist Curl Over A Bench|247|248|4|11|11|2|5
+125|Palms-Up Barbell Wrist Curl Over A Bench|249|250|4|11|11|2|5
+126|Seated Palms-Down Barbell Wrist Curl|251|252|4|11|11|2|5
+127|Hack Squat|253|254|8|9|5|11|14
+128|Barbell Lunge|255|256|8|9|5|2|0
+129|Lying Machine Squat|257|258|8|9|5|11|0
+130|Leg Extensions|259|260|8|11|11|11|0
+131|Dumbbell Squat|261|262|8|9|5|5|0
+132|Leg Press|263|264|8|9|5|11|0
+133|Barbell Step Ups|265|266|8|9|5|2|3
+134|Dumbbell Step Ups|267|268|8|9|5|5|3
+135|Smith Machine Squat|269|270|8|9|5|11|0
+136|Dumbbell Lunges|271|272|8|9|5|5|0
+137|Barbell Front Squat|273|274|8|9|5|2|0
+138|Overhead Squat|275|276|8|0|9|2|0
+139|Barbell Seated Calf Raise|277|278|9|11|11|2|3
+140|Calf Press On Leg Press Machine|279|280|9|11|11|11|0
+141|Calf Raise On A Dumbbell|281|282|9|11|11|5|0
+142|Standing Dumbbell Calf Raise|283|284|9|11|11|5|0
+143|Standing Barbell Calf Raise|285|286|9|11|11|2|0
+144|Seated Calf Raise|287|288|9|11|11|11|0
+145|Standing Calf Raises|289|290|9|11|11|11|0
+146|Seated Side Lateral Raise|291|292|6|11|11|5|3
+147|EZ Bar Incline Triceps Extension|293|294|7|11|11|7|3
+148|Seated Bent-Over Dumbbell Triceps Extension|295|296|7|11|11|5|3
+149|Triceps Pushdown V-Bar|297|298|7|11|11|11|0
+150|Kneeling Cable Triceps Extension|299|300|7|11|11|11|0
+151|Barbell Triceps Extension|301|302|7|11|11|2|0
+152|Decline EZ Bar Triceps Extension|303|304|7|11|11|7|3
+153|Lying Close-Grip Barbell Triceps Press To Chin|305|306|7|11|11|2|3
+154|Tricep Dumbbell Kickback|307|308|7|11|11|5|0
+155|Cable Rope Overhead Triceps Extension|309|310|7|11|11|11|0
+156|Weighted Bench Dip|311|312|7|11|11|3|14
+157|Reverse Grip Triceps Pushdown|313|314|7|11|11|11|0
+158|Seated Triceps Press|315|316|7|11|11|3|5
+159|Triceps Pushdown - Rope|317|318|7|11|11|11|0
+160|Lying Leg Curls|319|320|8|11|11|11|0
+161|Seated Leg Curl|321|322|8|11|11|11|0
+162|Barbell Front Raise and Pullover|323|324|3|7|6|2|3
+163|Bench Press Machine|325|326|3|7|6|11|0
+164|Barbell Neck Press|327|328|3|2|11|2|3
+165|Dumbbell Incline Fly|329|330|3|6|11|5|3
+166|Dumbbell Incline Fly With A Twist|331|332|3|6|11|5|3
+167|One Arm Floor Press|333|334|3|6|7|2|0
+168|Barbell Wide Grip Decline Pullover|335|336|3|6|7|2|3
+169|Dumbbell One Arm Bench Press|337|338|3|6|7|5|3
+170|Push Up On Exercise Dome|339|340|3|6|7|12|4
+171|Dumbbell One Arm Bench Fly|341|342|3|6|7|5|3
+172|One Armed Biased Push Up|343|344|3|6|7|12|4
+173|Push Up with Feet On An Exercise Ball|345|346|3|6|7|6|4
+174|Smith Machine Bench Press|347|348|3|6|7|11|0
+175|Smith Machine Incline Bench Press|349|350|3|6|7|11|0
+176|Barbell Wide Grip Bench Press|351|352|3|6|7|2|3
+177|Barbell Wide Grip Decline Bench Press|353|354|3|6|7|2|3
+178|Machine Incline Chest Press|355|356|3|6|7|11|0
+179|Machine Decline Chest Press|357|358|3|7|6|11|0
+180|Body Row|359|360|2|1|11|11|0
+181|Gironda Sternum Chins|361|362|1|2|11|13|0
+182|Climbers Chin Up|363|364|1|2|11|13|0
+183|Straight Arm Push Down|365|366|1|7|11|11|0
+184|Underhand Pull down|367|368|1|2|11|11|3
+185|Band Upright Row|369|370|1|6|7|1|0
+187|V Bar Pull Down|373|374|1|2|11|11|0
+188|Pullover On Stability Ball With Weight|375|376|7|6|11|6|14
+189|Smith Machine Deadlift|377|378|1|9|8|11|0
+190|Smith Machine Good Morning|379|380|1|8|11|11|0
+192|Back Extension on Stability Ball|383|384|1|11|11|6|0
+193|Dumbbell Deadlift|385|386|1|9|8|5|0
+194|Bridge|387|388|5|11|11|4|0
+195|Leg Lift|389|390|5|8|11|4|0
+196|One Leg Kickback|391|392|5|8|11|4|0
+198|Flutter Kick|395|396|5|8|11|4|0
+199|Romanian Deadlift|397|398|1|8|9|2|0
+200|Standing Leg Curl|399|400|8|11|11|11|0
+201|Dumbbell Walking Lunges|401|402|8|5|9|5|0
+202|Barbell Hack Squat|403|404|8|5|11|2|0
+203|Smith Machine Hack Squat|405|406|8|5|11|11|0
+204|Barbell Side Split Squat|407|408|8|5|11|2|0
+205|Barbell Single Leg Squat|409|410|8|9|5|2|0
+206|Hip Adduction|411|412|5|8|11|11|0
+207|One Arm Snatch|413|414|8|6|1|2|5
+208|Barbell One Leg Squat|415|416|8|9|5|2|0
+209|Barbell Jeffersion Squat|417|418|8|5|11|2|0
+210|Iron Cross|419|420|8|6|5|5|0
+212|Barbell One Arm Side Deadlift|423|424|8|0|5|2|0
+213|Pile Squat|425|426|8|9|5|5|0
+214|Barbell Speed Squat|427|428|8|9|5|2|0
+215|Band Squat|429|430|8|9|5|1|0
+216|Thigh Abductor|431|432|8|11|11|11|0
+217|Thigh Adductor|433|434|8|11|11|11|0
+218|Barbell Wide Stance Squat|435|436|8|9|5|2|0
+219|Barbell Zecher Squat|437|438|8|5|9|2|0
+220|Seated Tricep Dip|439|440|7|6|11|11|0
+221|EZ Bar Triceps Extension|441|442|7|11|11|7|3
+222|Dumbbell Decline Triceps Extension|443|444|7|11|11|5|3
+223|EZ Bar Decline Close Grip Skull Crusher|445|446|7|3|6|7|3
+224|Cable Standing Triceps Extension|447|448|7|11|11|11|0
+225|Cable One Arm Tricep Extension|449|450|7|11|11|11|0
+226|Cable Lying Triceps Extension|451|452|7|11|11|11|0
+227|Cable Incline Triceps Extension|453|454|7|11|11|11|0
+228|Cable Incline Pushdown|455|456|7|11|11|11|0
+229|Bench Dip|457|458|7|3|11|3|0
+230|Dumbbell One Arm Triceps Extension|459|460|7|11|11|5|0
+231|EZ Bar Lying Close-Grip Triceps Extension Behind the Head|461|462|7|11|11|7|
+3
+232|Cable Low Triceps Extension|463|464|7|11|11|11|0
+233|Cable Kneeling Concentration Triceps Extension|465|466|7|11|11|11|0
+235|Dumbbell Lying Triceps Extension Across Face|469|470|7|11|11|5|3
+236|Dumbbell Lying Supine Two Arm Triceps Extension|471|472|7|11|11|5|3
+237|Barbell Lying Triceps Press|473|474|7|3|11|2|3
+238|Dumbbell Single Arm Pronated Triceps Extension|475|476|7|11|11|5|3
+239|Dumbbell Single Arm Supinated Triceps Extension|477|478|7|11|11|5|3
+240|Close Triceps Pushup|479|480|7|3|11|4|0
+241|Barbell Reverse Triceps Bench Press|481|482|7|3|6|2|3
+242|Dumbbell Tate Press|483|484|7|11|11|5|3
+243|Standing Towel Triceps Extension|485|486|7|11|11|12|0
+244|Barbell Standing Overhead Triceps Extension|487|488|7|11|11|2|0
+245|Dumbbell Standing One Arm Triceps Extension|489|490|7|11|11|5|0
+246|Standing One Arm Low-Pulley Triceps Extension|491|492|7|11|11|11|0
+247|Dumbbell Standing Triceps Extension|493|494|7|11|11|5|0
+248|Smith Machine Close Grip Bench Press|495|496|7|3|6|11|0
+249|Barbell Seated Overhead Triceps Extension|497|498|7|6|11|2|3
+250|Cable Triceps Pushdown|499|500|7|11|11|11|0
+251|Weighted Ball Side Bend|501|502|0|11|11|6|14
+252|Dumbbell Incline Triceps Extension|503|504|7|6|11|5|3
+253|Machine Triceps Extension|505|506|7|11|11|11|0
+254|Barbell Drag Curl|507|508|2|4|11|2|0
+256|Cable Preacher Curl|511|512|2|4|11|11|3
+257|Hammer Curls with Rope|513|514|2|4|11|11|0
+259|Barbell Lying High Bench Biceps Curl|517|518|2|4|11|2|3
+260|Cable Lying Close Grip Biceps Curl|519|520|2|4|11|11|0
+261|Cable Lying Bicep Cable Curl|521|522|2|4|11|11|0
+263|High Cable Curl|525|526|2|7|11|11|0
+264|Dumbbell Flexor Incline Curl|527|528|2|4|11|5|3
+266|Dumbbell Prone Incline Biceps Curl|531|532|2|4|11|5|3
+267|Dumbbell Seated Bicep Curl|533|534|2|4|11|5|3
+268|EZ Bar Seated Close Grip Concentration Curl|535|536|2|4|11|7|3
+269|Reverse Plate Curl|537|538|2|4|11|14|0
+270|Dumbbell Preacher Hammer Curl|539|540|2|4|11|5|3
+271|Preacher Curl Machine|541|542|2|4|11|11|0
+272|Dumbbell Lying Supine Biceps Curl|543|544|2|4|11|5|0
+273|Cable Standing One Arm Bicep Curl|545|546|2|4|11|11|0
+274|Dumbbell Preacher Curl|547|548|2|4|11|5|3
+275|Barbell Wide Grip Standing Biceps Curl|549|550|2|4|11|2|0
+276|Dumbbell Zottman Curl|551|552|2|4|11|5|3
+277|Dumbbell One Arm Zottman Preacher Curl|553|554|2|4|11|5|3
+278|Bicep Curl Machine|555|556|2|4|11|11|0
+279|One Arm Bicep Curl with Olympic Bar|557|558|2|4|11|2|0
+280|Lateral Lunge with Dumbbell Bicep Curl|559|560|8|2|5|5|0
+281|Bicep Curl on Stability Ball with Leg Raised|561|562|2|4|8|6|5
+282|Bicep Curl Lunge with Bowling Motion|563|564|2|7|8|5|0
+283|Speed Alternating Biceps Curl with Band|565|566|2|4|7|1|0
+284|Bicep Curl with Deadlift|567|568|2|8|9|2|0
+285|Dumbbell Biceps Curl Reverse|569|570|2|4|11|5|0
+286|Dumbbell Biceps Curl Squat|571|572|2|8|5|5|0
+287|Band Calf Raises|573|574|9|11|11|1|0
+288|Dumbbell Biceps Curl V Sit on Dome|575|576|2|0|11|5|12
+289|Ankle Circles|577|578|9|11|11|4|0
+290|Dumbbell Bicep Curl With  Stork Stance|579|580|2|5|8|5|0
+291|Medicine Ball Biceps Curl on Stability Ball|581|582|2|4|11|5|12
+292|Step Up Single Leg Balance with Bicep Curl|583|584|2|8|5|5|2
+293|Forward Lunge with Bicep Curl|585|586|2|8|5|5|0
+294|Ab Rollout on Knees|587|588|0|6|1|2|0
+296|Smith Machine Reverse Calf Raises|591|592|9|11|11|11|0
+297|Rocking Standing Calf Raise|593|594|9|11|11|2|0
+298|Knee Circles|595|596|9|8|11|4|0
+299|Seated One Leg Calf Raise|597|598|9|11|11|5|3
+300|Donkey Calf Raises|599|600|9|11|11|12|0
+301|Crunches with Legs on Stability Ball|601|602|0|11|11|7|0
+302|Crunches with Legs on Bench|603|604|0|11|11|3|0
+303|Decline Oblique Crunch|605|606|0|11|11|3|0
+304|Side Bend|607|608|0|11|11|5|0
+306|Bent Knee Hip Raise|611|612|0|5|11|4|0
+307|EZ Bar Close Grip Curl|613|614|2|4|11|7|0
+308|Aerobics|630|0|10|11|11|12|0
+309|Boxing|615|0|10|11|11|0|0
+310|Elliptical Training|616|0|10|11|11|10|0
+311|Field Sports|617|0|10|11|11|12|0
+312|Indoor Cycling|618|0|10|11|11|10|0
+313|Mountain Biking|619|0|10|11|11|10|0
+314|Pilates|620|0|10|11|11|12|0
+315|Road Cycling|621|0|10|11|11|10|0
+316|Rowing|622|0|10|11|11|10|0
+317|Running|623|0|10|11|11|4|0
+318|Stationary Bike|624|0|10|11|11|10|0
+319|Step Machine|625|0|10|11|11|10|0
+320|Swimming|626|0|10|11|11|4|0
+321|Treadmill Running|627|0|10|11|11|10|0
+322|Walking|628|0|10|11|11|10|0
+323|Yoga|629|0|10|11|11|4|0
+324|Advanced Kettlebell Windmill|980|631|0|6|5|9|0
+325|Barbell Side Bend|632|633|0|5|1|2|0
+326|Bent Press|634|635|0|5|1|9|0
+327|Butt-Ups|636|637|0|5|1|4|0
+328|Crunch - Hands Overhead|638|639|0|11|11|4|0
+329|Double Kettlebell Windmill|640|641|0|6|5|9|0
+330|Gorilla Chin Crunch|642|643|0|2|1|13|4
+331|Janda Sit-Up|644|645|0|11|11|4|0
+332|Kettlebell Figure Eight|646|647|0|6|8|9|0
+333|Kettlebell Pass Between The Legs|648|649|0|6|5|9|0
+334|Kettlebell Windmill|650|651|0|6|5|9|0
+335|Knee Hip Raise On Parallel Bars|652|653|0|11|11|11|0
+336|Leg Pull-In|654|655|0|11|11|4|0
+337|Lower Back Curl|656|657|0|11|11|4|0
+338|Reverse Crunch|658|659|0|11|11|4|0
+339|Russian Twist|660|661|0|5|1|3|14
+340|Scissor Kick|662|663|0|11|11|4|0
+341|Seated Barbell Twist|664|665|0|11|11|2|3
+342|Seated Flat Bench Leg Pull-In|666|667|0|11|11|4|3
+343|Seated Leg Tucks|668|669|0|11|11|4|0
+344|Side Jackknife|670|671|0|11|11|4|0
+345|Sit Up|672|673|0|11|11|4|0
+346|Torso Rotation|674|675|0|11|11|6|14
+347|Weighted Sit-Up With Bands|676|677|0|11|11|3|1
+348|Alternating Kettlebell Row|678|679|1|2|11|9|0
+349|Alternating Renegade Row|680|681|1|3|0|9|0
+350|Bent Arm Barbell Pullover|682|683|1|6|3|2|3
+351|Bent Arm One Arm Long Bar Row|684|685|1|6|2|2|0
+352|Cable Incline Pushdown|686|687|1|11|11|11|3
+353|Full Range Of Motion Lat Pulldown|688|689|1|6|2|11|0
+354|Hyperextensions With No Hyperextension Bench|690|691|1|8|5|3|4
+355|Lying T-Bar Row|692|693|1|6|2|12|0
+356|Middle Back Shrug|694|695|1|11|11|5|0
+357|One Arm Chin Up|696|697|1|4|2|13|0
+358|One Handed Hang|698|699|1|2|11|13|0
+359|One Arm Kettlebell Row|700|701|1|2|11|9|0
+360|Rocky Pull Ups/Pulldowns|702|703|1|6|2|13|0
+361|Seated Good Mornings|704|705|1|5|11|2|3
+362|Two Arm Kettlebell Row|706|707|1|2|11|9|0
+363|Weighted Ball Hyperextensions|708|709|1|8|5|6|14
+364|Drag Curl|710|711|2|4|11|2|7
+365|Seated Close Grip Concentration Barbell Curl|712|713|2|11|11|2|3
+366|Seated Dumbbell Inner Biceps Curl|714|715|2|11|11|5|3
+367|Alternating Floor Press|716|717|3|11|11|9|0
+368|Around the Worlds|718|719|3|7|6|5|3
+369|Barbell Incline Shoulder Raise|720|721|3|6|11|2|3
+370|Bench Press with Bands|722|723|3|7|6|1|3
+371|Bent Arm Dumbbell Pullover|724|725|3|7|6|5|0
+372|Extended Range One Arm Kettlebell Floor Press|726|727|3|7|6|9|0
+373|One Arm Kettlebell Floor Press|728|729|3|7|11|9|0
+374|Plyo Kettlebell Pushups|730|731|3|7|6|9|0
+375|Straight Arms Dumbbell Pullover|732|733|3|7|6|5|0
+376|Bottoms Up Clean From The Hang Position|734|735|4|6|2|9|0
+377|Dumbbell Lying Pronation|736|737|4|11|11|9|3
+378|Dumbbell Lying Supination|738|739|4|11|11|9|3
+379|Kneeling Forearm Stretch|740|741|4|11|11|4|0
+380|Plate Pinch|742|743|4|11|11|14|0
+381|Seated One Arm Dumbbell Palms Down Wrist Curl|744|745|4|11|11|5|3
+382|Seated One Arm Dumbbell Palms Up Wrist Curl|746|747|4|11|11|5|3
+383|Seated Two Arm Palms Up Low Pulley Wrist Curl|748|749|4|11|11|11|3
+384|Ankle On The Knee|750|751|5|11|11|4|0
+385|Barbell Glute Bridge|752|753|5|9|8|2|0
+386|Barbell Hip Thrust|754|755|5|9|8|2|0
+387|Glute Kickback |756|757|5|9|8|4|0
+388|Hip Lift With Band|758|759|5|9|8|1|0
+389|Knee Across The Body|760|761|5|9|8|4|0
+390|Kneeling Jump Squat|762|763|5|9|8|2|0
+391|Kneeling Squat|764|765|5|9|8|2|0
+392|One Knee to Chest|766|767|5|9|8|4|0
+393|Pull Through|768|769|5|9|8|11|0
+394|Calf Raise With Bands|770|771|9|11|11|1|0
+395|Alternating Hang Clean|772|773|6|9|1|9|0
+396|Alternating Kettlebell Press|774|775|6|7|11|9|0
+397|Back Flyes With Bands|776|777|6|7|1|1|11
+398|Barbell Rear Delt Row|778|779|6|2|1|2|0
+399|Barbell Shrugs Behind The Back|780|781|6|4|1|2|0
+400|Bent Over Low Pulley Side Lateral|782|783|6|1|11|11|0
+401|Bradford Rocky Press|784|785|6|7|11|2|3
+402|Cable Rope Rear Delt Row|786|787|6|2|1|11|0
+403|Calf-Machine Shoulder Shrug|788|789|6|11|11|11|0
+404|Clean and Jerk|790|791|6|5|0|2|0
+405|Double Kettlebell Alternating Hang Clean|792|793|6|1|11|9|0
+406|Double Kettlebell Jerk|794|795|6|9|7|9|0
+407|Double Kettlebell Push Press|796|797|6|9|7|9|0
+408|Double Kettlebell Snatch|798|799|6|8|5|9|0
+409|Double Incline Shoulder Raise|800|801|6|7|11|5|3
+410|Frankenstein Squat|802|803|6|9|8|2|0
+411|Front Incline Dumbbell Raise|804|805|6|11|11|5|0
+412|Front Plate Raise|806|807|6|11|11|14|0
+413|Front Two Dumbbell Raise|808|809|6|11|11|5|0
+414|Jerk Balance|810|811|6|7|5|2|0
+415|Kettlebell Arnold Press|812|813|6|7|11|9|0
+416|Kettlebell Seated Press|814|815|6|7|11|9|0
+417|Kettlebell Seesaw Press|816|817|6|7|11|9|0
+418|Kettlebell Sumo High Press|818|819|6|9|8|9|0
+419|Kettlebell Thruster|820|821|6|8|7|9|0
+420|Kettlebell Turkish Get Up Lunge|822|823|6|8|0|9|0
+421|Kettlebell Turkish Get Up Squat|824|825|6|8|7|9|0
+422|Lateral Raise With Bands|826|827|6|11|11|1|0
+423|Low Pulley Row To Neck|828|829|6|2|1|11|0
+424|Lying Face Down Plate Neck Resistance|830|831|6|11|11|3|14
+425|Lying Face Up Plate Neck Resistance|832|833|6|11|11|3|14
+426|Lying One Arm Lateral Raise|834|835|6|11|11|5|3
+427|Lying Rear Delt Raise|836|837|6|1|11|5|3
+428|One Arm Incline Lateral Raise|838|839|6|11|11|5|3
+429|One Arm Kettlebell Clean And Jerk|840|841|6|11|11|9|0
+430|One Arm Kettlbell Jerk|842|843|6|8|7|9|0
+431|One Arm Kettlebell Military Press To The Side|844|845|6|7|11|9|0
+432|One Arm Kettlebell Para Press|846|847|6|7|11|9|0
+433|One Arm Kettlebell Push Press|848|849|6|7|11|9|0
+434|One Arm Kettlebell Snatch|850|851|6|7|1|9|0
+435|One Arm Kettlebell Split Jerk|852|853|6|7|5|9|0
+436|One Arm Kettlebell Split Snatch|854|855|6|8|5|9|0
+437|One Arm Side Lateral|856|857|6|11|11|5|3
+438|Push Press|858|859|6|7|8|2|0
+439|Push Press Behind The Neck|860|861|6|7|8|2|0
+440|Rack Delivery|862|863|6|4|11|2|0
+441|Reverse Flyes|864|865|6|1|11|5|3
+442|Reverse Flyes With External Rotation|866|867|6|1|11|5|3
+443|Round The World Shoulder Stretch|868|869|6|3|2|2|0
+444|See Saw Press|870|871|6|7|0|5|0
+445|Shoulder Press With Bands|872|873|6|7|11|1|0
+446|Smith Incline Shoulder Raise|874|875|6|3|11|11|0
+447|Smith Machine Overhead Shoulder Press|876|877|6|7|11|11|0
+448|Snatch Shrug|878|879|6|4|1|2|0
+449|Standing Barbell Press Behind The Neck|880|881|6|7|11|2|0
+450|Standing Dumbbell Straight Arm Front Delt Raise Above Head|882|883|6|11|11|5
+|0
+451|Standing Front Barbell Raise Over Head|884|885|6|11|11|2|0
+452|Standing Low Pulley Deltoid Raise|886|887|6|4|11|11|0
+453|Standing Military Press|888|889|6|7|11|2|0
+454|Standing Palm In One Arm Dumbbell Press|890|891|6|7|11|5|3
+455|Standing Palms In Dumbbell Press|892|893|6|7|11|5|0
+456|Two Arm Kettlebell Clean|894|895|6|11|11|9|0
+457|Two Arm Kettlebell Jerk|896|897|6|8|7|9|0
+458|Two Arm Kettlebell Military Press|898|899|6|7|11|9|0
+459|Dip Machine|900|901|7|6|3|11|0
+460|JM Press|902|903|7|6|3|2|3
+461|Seated Bent Over Two Arm Dumbbell Triceps Extension|904|905|7|11|11|5|3
+462|Standing Bent Over One Arm Dumbbell Triceps Extension|906|907|7|6|11|5|0
+463|Standing Bent Over Two Arm Dumbbell Triceps Extension|908|909|7|6|11|5|0
+464|All Fours Squad Stretch|910|911|8|11|11|4|0
+465|90 90 Hamstring|912|913|8|11|11|4|0
+466|Band Good Morning|914|915|8|5|11|1|0
+467|Barbell Full Squat|916|917|8|5|1|2|0
+468|Barbell Squat To A Bench|918|919|8|5|1|2|3
+469|Clean|920|921|8|6|9|2|0
+470|Clean Deadlift|922|923|8|1|5|2|0
+471|Clean From Blocks|924|925|8|6|9|2|12
+472|Clean Pull|926|927|8|1|5|2|0
+473|Dumbbell Rear Lunge|928|929|8|5|9|5|0
+474|Dumbbell Squat To A Bench|930|931|8|1|5|5|12
+475|Frankenstein Squat|932|933|8|5|0|2|0
+476|Freehand Jump Squat|934|935|8|9|5|4|0
+477|Front Barbell Squat|936|937|8|5|1|2|3
+478|Front Squats With Two Kettlebells|938|939|8|5|9|9|0
+479|Goblet Squat|940|941|8|6|5|9|0
+480|Kettlebell Dead Clean|942|943|8|1|5|9|0
+481|Kettlebell Hang Clean|944|945|8|6|5|9|0
+482|Kettlebell One Legged Deadlift|946|947|8|1|5|9|0
+483|Kettlebell Pistol Squat|948|949|8|6|5|9|0
+484|Mountain Climbers|950|951|8|6|3|4|0
+485|Narrow Stance Hack Squat|952|953|8|9|5|11|0
+486|Narrow Stance Leg Press|954|955|8|9|5|11|0
+487|Narrow Stance Squat|956|957|8|1|5|2|0
+488|One Arm Kettlebell Clean|958|959|8|6|5|9|0
+489|One Arm Kettlebell Swing|960|961|8|6|5|9|0
+490|One Arm One Palm Kettlebell Clean|962|963|8|6|5|9|0
+491|One Arm Overhead Kettlebell Squat|964|965|8|6|5|9|0
+492|Open Palm Kettlebell Clean|966|967|8|1|5|9|0
+493|Sit Squat|968|969|8|0|5|4|0
+494|Smith Machine Stiff Legged Deadlift|970|971|8|1|5|11|0
+495|Smith Single Leg Split Squat|972|973|8|1|5|11|3
+496|Sumo Deadlift|974|975|8|1|5|2|0
+497|Weighted Squat|976|977|8|9|5|14|3
+498|Zercher Squat|978|979|8|9|5|2|0

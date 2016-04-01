@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C8BFe7"
+    android:orientation="vertical"
+    android:textColor="#FFFFFF" >
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:scrollbarFadeDuration="1000" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#C8BFe7"
+            android:orientation="vertical"
+            android:textColor="#FFFFFF" >
+
+            <TableLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dip"
+                android:orientation="vertical" >
+
+                <TableRow>
+
+                    <TextView
+                        android:layout_marginRight="5dp"
+                        android:text="Data" />
+
+                    <TextView
+                        android:id="@+id/box_data_treino"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="  /  /    " >
+                    </TextView>
+
+                    <TextView
+                        android:id="@+id/box_dia_sem_treino"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="SEG" >
+                    </TextView>
+
+                    <TextView
+                        android:layout_marginRight="5dp"
+                        android:text="Sessão" />
+
+                    <TextView
+                        android:id="@+id/box_num_sessao_treino"
+                        android:text=" " />
+                </TableRow>
+
+                <TableRow>
+
+                    <TextView android:text="Treino" />
+
+                    <TextView
+                        android:id="@+id/num_treino"
+                        style="@style/attr_atividade"
+                        android:layout_span="3"
+                        android:text=" " />
+                </TableRow>
+            </TableLayout>
+
+            <TableLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/tabela_treino"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_fechar_treino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fechar" />
+
+        <Button
+            android:id="@+id/button_adc_exerc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Adcionar Exercicios" />
+
+        <Button
+            android:id="@+id/ok_button_treino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="Registrar" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>
